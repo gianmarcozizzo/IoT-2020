@@ -14,6 +14,7 @@ The virtual environmental station uses a unique ID (identity) to publish these r
 
 To generate values and to send them to your AWS - IoT Core Thing with the MQTT protocol:
 ```
-python3 environmental_station_simulator.py --clientd stationID
+python3 environmental_station_simulator.py --clientid stationID
 ```
 where stationID is supposed to be station1 or station2 in this case. Then, the provided data will be sent to the database (DynamoDB)
+NB: you have to change some personal paramteres in the code.
