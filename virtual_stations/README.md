@@ -16,5 +16,5 @@ To generate values and to send them to your AWS - IoT Core Thing with the MQTT p
 ```
 python3 environmental_station_simulator.py --clientid stationID
 ```
-where stationID is supposed to be station1 or station2 in this case. Then, the provided data will be sent to the database (DynamoDB)
+where stationID is supposed to be station1 or station2 in this case. Then, the provided data will be sent to the database (DynamoDB).
 NB: you have to change some personal paramteres in the code.
