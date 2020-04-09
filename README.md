@@ -4,4 +4,5 @@ This project is part of an assignment for the course of Internet of Things at th
 - Reference: http://ichatz.me/Site/InternetOfThings2020-Assignment1
 - Hackster [guide](https://www.hackster.io/gianmarcozizzo/aws-based-iot-virtual-environmental-station-4ccb71)
 - YouTube [video](https://www.youtube.com/watch?v=YGlRryTL12Y)
+- LinkedIn [profile](https://www.linkedin.com/in/gianmarco-zizzo-9741861a3/)
 
