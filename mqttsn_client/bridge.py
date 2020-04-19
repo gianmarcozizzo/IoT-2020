@@ -1,4 +1,4 @@
-# This script is basend on "environmental_station_simulator.py" in virtual_stations folder
+# This script is based on "environmental_station_simulator.py" in virtual_stations folder
 # Basically most of the functions and variables are the same
 # Don't use Python3 because you might haave some troubles with default Mosquitto's scripts
 
