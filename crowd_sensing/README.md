@@ -8,3 +8,4 @@ A simple Crowd Sensing application based on Amazon Web Services that determines 
 - In the *django_web* folder you can find all the files needed to run the web page that displays the values collected
 - In the *lambda_function* folder you can find the Lambda function that I used on AWS for analyzing the data for the cloud-based mode
 
+![Image](https://hackster.imgix.net/uploads/attachments/1127598/_YKyID9n3Og.blob?auto=compress%2Cformat&w=900&h=675&fit=min)
