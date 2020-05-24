@@ -39,4 +39,18 @@ Attention: if you clone this repository you may have to do some paths adjustment
 - YouTube [video](https://www.youtube.com/watch?v=CvmiBjnKEso)
 - LinkedIn [profile](https://www.linkedin.com/in/gianmarco-zizzo-9741861a3/)
 
+### Concept
+This project is part of an assignment for the course of Internet of Things at the Sapienza University of Rome. The aim is to build a Crowd Sensing application based on Amazon Web Services (AWS) that determines through, the smartphone's accelerometer, the user activity. The analysis of the data provided by the accelerometer will be operated in two ways: edge-based and cloud based.
+
+## Crowd Sensing application
+
+You can find further information in *crowd_sensing* folder
+
+- Reference: http://ichatz.me/Site/InternetOfThings2020-Assignment4
+- Hackster [guide](https://www.hackster.io/gianmarcozizzo/aws-based-crowd-sensing-application-d15f35)
+- YouTube [video]()
+- LinkedIn [profile](https://www.linkedin.com/in/gianmarco-zizzo-9741861a3/)
+
+
+
 
