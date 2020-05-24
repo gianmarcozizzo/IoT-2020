@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <title>Movement detection</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="main.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/paho-mqtt/1.0.2/mqttws31.min.js" type="text/javascript"></script>
+  </head>
+
+<body>
+
+  <nav class="navbar navbar-expand-md navbar-dark bg-steel fixed-top">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="#">Edge based</a>
+      </div>
+      <div class="navbar-header">
+        <a class="navbar-brand" href="cloud.html">switch to Cloud based</a>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container" id="div-general">
+
+    <div class="container" id="div-values">
+          <h1>Accelerometer</h1>
+
+        <table class="table">
+          <thead>
+            <tr>
+              <th scope="col">Axis</th>
+              <th scope="col">Value</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">X</th>
+              <td id='x_value'>0</td>
+            </tr>
+            <tr>
+              <th scope="row">Y</th>
+              <td id='y_value'>0</td>
+            </tr>
+            <tr>
+              <th scope="row">Z</th>
+              <td id='z_value'>0</td>
+            </tr>
+          </tbody>
+        </table>
+        <div class="row" id="div-error"> </div>
+    </div>
+  </div>
+
+  <br>
+  <div class="container" id="status-container">
+    <table class="table">
+      <thead>
+        <tr>
+            <th scope="col" id="dacti"> <b>Current status: -- <br/> Computed value: -- <br/> Time: --</b> </th>
+        </tr>
+      </thead>
+  </div>
+
+</body>
+
+<script type = "text/javascript" src="edge.js"></script>
+</html>
