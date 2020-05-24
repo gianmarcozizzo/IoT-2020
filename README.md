@@ -43,7 +43,7 @@ Attention: if you clone this repository you may have to do some paths adjustment
 ### Concept
 This project is part of an assignment for the course of Internet of Things at the Sapienza University of Rome. The aim is to build a Crowd Sensing application based on Amazon Web Services (AWS) that determines through, the smartphone's accelerometer, the user activity. The analysis of the data provided by the accelerometer will be operated in two ways: edge-based and cloud based.
 
-## Crowd Sensing application
+## Fourth Assignment - Crowd Sensing application
 
 You can find further information in *crowd_sensing* folder
 
