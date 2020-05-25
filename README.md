@@ -49,7 +49,7 @@ You can find further information in *crowd_sensing* folder
 
 - Reference: http://ichatz.me/Site/InternetOfThings2020-Assignment4
 - Hackster [guide](https://www.hackster.io/gianmarcozizzo/aws-based-crowd-sensing-application-d15f35)
-- YouTube [video]()
+- YouTube [video](https://www.youtube.com/watch?v=IiOdGaJrZHw)
 - LinkedIn [profile](https://www.linkedin.com/in/gianmarco-zizzo-9741861a3/)
 
 
